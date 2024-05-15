@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Franciscorubiales
-- 👀 I’m interested in various software development
+- 👀 I’m interested in various tools for software development
 - 🌱 I’m currently learning python, C# and C++
 - 💞️ I’m looking to collaborate on something later.
 - 📫 How to reach me: osogris@yandex.com  
